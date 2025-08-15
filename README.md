@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="28" alt="linux logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="28" alt="ubuntu logo"  />
