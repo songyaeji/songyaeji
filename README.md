@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="300" src="https://github.com/songyaeji/songyaeji/blob/main/cuteCat.gif"  />
+<img align="right" height="250" src="https://github.com/songyaeji/songyaeji/blob/main/cuteCat.gif"  />
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">I code with...</h3>
+<h3 align="left">👩‍💻 My Tech Stack</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">Tools</h3>
+<h3 align="left">🪛 Tools</h3>
 
 ###
 
