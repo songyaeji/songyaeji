@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨‍💻 Aspiring Security Consultant & Security Researcher<br><br>🎓 Studying Software & Cyber Security @ Kyung Hee University, KR<br><br>🔬 Passionate about Malware Analysis & Privacy<br><br>🎯 Focused on:<br>    - Security Consulting<br>    - Vulnerability Analysis<br>    - Contributing to Open Source Security Projects</p>
+<p align="left">🎓 Studying Software & Cyber Security @ Kyung Hee University, KR<br><br>👨‍💻 Aspiring Security Consultant & Security Researcher<br><br>🔬 Passionate about Malware Analysis & Privacy<br><br>🎯 Focused on:<br>    - Security Consulting<br>    - Vulnerability Analysis<br>    - Contributing to Open Source Security Projects</p>
 
 ###
 
