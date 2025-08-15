@@ -14,8 +14,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="28" alt="linux logo"  />
   <img width="12" />
