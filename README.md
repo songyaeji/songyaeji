@@ -5,7 +5,6 @@
 <img align="right" height="250" src="https://github.com/songyaeji/songyaeji/blob/main/cuteCat.gif"  />
 
 ###
-
 <p align="left"><br>
   🎓 Studying Software & Cyber Security @ Kyung Hee University, KR<br>   
   👨‍💻 Aspiring Security Consultant & Security Researcher<br>
