@@ -6,7 +6,6 @@
 
 ###
 
-> Cybersecurity is life
 <p align="left"><br>
   🎓 Studying Software & Cyber Security @ Kyung Hee University, KR<br>   
   👨‍💻 Aspiring Security Consultant & Security Researcher<br>
