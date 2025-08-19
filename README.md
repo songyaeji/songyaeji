@@ -7,10 +7,10 @@
 ###
 
 <p align="left"><br>
-  🎓 Studying Software & Cyber Security @ Kyung Hee University, KR      
-  👨‍💻 Aspiring Security Consultant & Security Researcher    
+  🎓 Studying Software & Cyber Security @ Kyung Hee University, KR<br>   
+  👨‍💻 Aspiring Security Consultant & Security Researcher<br>
   🔬 Passionate about Malware Analysis & Privacy<br>
-  <br>🎯 Focused on:<br>    
+  🎯 Focused on:<br>    
   - Security Consulting<br>    
   - Vulnerability Analysis<br>    
   - Contributing to Open Source Security Projects</p>
