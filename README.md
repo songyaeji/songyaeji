@@ -7,10 +7,11 @@
 ###
 
 <p align="left"><br>
+  > Cybersecurity is life<br>
   🎓 Studying Software & Cyber Security @ Kyung Hee University, KR<br>   
   👨‍💻 Aspiring Security Consultant & Security Researcher<br>
   🔬 Passionate about Malware Analysis & Privacy<br>
-  🎯 Focused on:<br>    
+  <br>🎯 Focused on:<br>    
   - Security Consulting<br>    
   - Vulnerability Analysis<br>    
   - Contributing to Open Source Security Projects</p>
