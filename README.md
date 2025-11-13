@@ -7,12 +7,13 @@
 ###
 <p align="left">
   Studying Software & Cyber Security @ Kyung Hee University, KR<br>   
-  <br> Aspiring Security Consultant <br>
-  <br> Passionate about Malware Analysis & Privacy<br>
-  <br> Focused on:<br>    
-  - Security Consulting<br>    
+  <br> Aspiring CyberSecurity Consultant <br>
+  <br> **My Interest** <br>    
+  - Supply Chain Security<br>
+  - Proxy Phishing<br>
   - Vulnerability Analysis<br>    
-  - Contributing to Open Source Security Projects</p>
+  - Malware Analysiss<br>    
+  - Privacy</p>
 
 ###
 
