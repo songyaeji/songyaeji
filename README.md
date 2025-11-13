@@ -8,7 +8,7 @@
 <p align="left">
   Studying Software & Cyber Security @ Kyung Hee University, KR<br>   
   <br> Aspiring CyberSecurity Consultant <br>
-  <br> **My Interest** <br>    
+  <br> <h4 align="left"> My Interest </h4> <br>    
   - Supply Chain Security<br>
   - Proxy Phishing<br>
   - Vulnerability Analysis<br>    
