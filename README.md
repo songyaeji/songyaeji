@@ -12,7 +12,6 @@
   - Supply Chain Security<br>
   - Proxy Phishing<br>
   - Vulnerability Analysis<br>    
-  - Malware Analysiss<br>    
   - Privacy</p>
 
 ###
