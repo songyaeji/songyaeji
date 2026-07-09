@@ -9,10 +9,9 @@
   Studying Software & Cyber Security @ Kyung Hee University, KR<br>   
   <br> Aspiring CyberSecurity Consultant <br>
   <h3 align="left"> My Interest </h3>
+  - AI/LLM Security
   - Supply Chain Security<br>
-  - Proxy Phishing<br>
   - Vulnerability Analysis<br>    
-  - Privacy</p>
 
 ###
 
@@ -22,8 +21,6 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="28" alt="linux logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="28" alt="ubuntu logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="28" alt="python logo"  />
   <img width="5" />
@@ -45,13 +42,9 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="28" alt="git logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28" alt="github logo"  />
-  <img width="5" />
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="28" alt="notion logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" height="28" alt="slack logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="28" alt="vscode logo"  />
 </div>
 
 ###
