@@ -7,9 +7,9 @@
 ###
 <p align="left">
   Studying Software & Cyber Security @ Kyung Hee University, KR<br>   
-  <br> Aspiring CyberSecurity Consultant <br>
+  <br> AI Security Researcher <br>
   <h3 align="left"> My Interest </h3>
-  - AI/LLM Security
+  - AI/LLM Security<br>
   - Supply Chain Security<br>
   - Vulnerability Analysis<br>    
 
@@ -29,8 +29,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="28" alt="docker logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="28" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="28" alt="go logo"  />
 </div>
 
 ###
